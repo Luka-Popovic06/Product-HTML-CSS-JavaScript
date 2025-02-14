@@ -2,3 +2,48 @@
   margin: 0;
   padding: 0;
 }
+body {
+  margin-top: 90px;
+}
+/*BOX-1*/
+#box-1 {
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 700px;
+  height: 90px;
+  border: 2px solid #8df05f;
+  border-radius: 20px;
+  padding: 15px 0px;
+}
+#button-1 {
+  width: 120px;
+  height: 70px;
+  border: #8df05f 2px solid;
+  background-color: #fff;
+  font-weight: 600;
+  color: #f05f5f;
+  font-family: sans-serif;
+  border-radius: 12px;
+}
+#button-2 {
+  width: 120px;
+  height: 70px;
+  border: #8df05f 2px solid;
+  background-color: #fff;
+  font-family: sans-serif;
+  color: #f05f5f;
+  font-weight: 600;
+  border-radius: 12px;
+}
+#button-3 {
+  width: 120px;
+  height: 70px;
+  border: #8df05f 2px solid;
+  background-color: #fff;
+  color: #f05f5f;
+  font-family: sans-serif;
+  font-weight: 600;
+  border-radius: 12px;
+}
